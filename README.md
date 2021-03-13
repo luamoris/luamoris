@@ -1,22 +1,21 @@
 <p align="center">
 	<img width="200" src="https://raw.githubusercontent.com/luamoris/luamoris/c22469486930599100e874425f560a1587611d35/assets/logo.svg" align="center" alt="Logo."/>
 </p>
-<h3 align="center" style="margin: 0;">Iosif Isachko</h3>
-<p align="center">@luamoris</p>
+<h3 align="center">Iosif Isachko</h3>
 <p align="center">
-	<a href="https://www.linkedin.com/in/iosif-isachko-2631061a7/" target="_blanck">
+	<a href="https://www.linkedin.com/in/iosif-isachko-2631061a7/">
 		<img src="https://raw.githubusercontent.com/luamoris/luamoris/c22469486930599100e874425f560a1587611d35/assets/linkedin.svg" alt="Linkedin"/>
 	</a>
-	&bull;
-	<a href="https://t.me/I0S1F" target="_blanck">
+	<img src="./assets/dot.svg" alt="Dot."/>
+	<a href="https://t.me/I0S1F">
 		<img src="https://raw.githubusercontent.com/luamoris/luamoris/c22469486930599100e874425f560a1587611d35/assets/telegram.svg" alt="Telegram"/>
 	</a>
-	&bull;
-	<a href="https://www.behance.net/yaiosifua2980" target="_blanck">
+	<img src="./assets/dot.svg" alt="Dot."/>
+	<a href="https://www.behance.net/yaiosifua2980">
 		<img src="https://raw.githubusercontent.com/luamoris/luamoris/c22469486930599100e874425f560a1587611d35/assets/behance.svg" alt="Behance"/>
 	</a>
-	&bull;
-	<a href="https://gitlab.com/luamoris" target="_blanck">
+	<img src="./assets/dot.svg" alt="Dot."/>
+	<a href="https://gitlab.com/luamoris">
 		<img src="https://raw.githubusercontent.com/luamoris/luamoris/c22469486930599100e874425f560a1587611d35/assets/gitlab.svg" alt="Behance"/>
 	</a>
 </p>
