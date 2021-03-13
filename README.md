@@ -31,7 +31,7 @@
 
 ### Recent projects
 
-[![Card][rep-template]][stats]
+[![Card][rep-template]][template]
 
 ---
 
@@ -73,14 +73,15 @@
 
 
 
-[stats]: https://github.com/luamoris/github-readme-stats
+[stats]: https://github.com/luamoris
 
 [rep-template]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=template&text_color=707070&title_color=73AC3B&hide_border=true&bg_color=F1F1F1&icon_color=609B24
+[template]: https://github.com/luamoris/template
 
 
 [lan]: https://github-readme-stats.vercel.app/api/top-langs/?username=luamoris&hide_border=true&title_color=6AB024&langs_count=5&hide_title=true&layout=compact
 
-[rep]: https://github-readme-stats.vercel.app/api?username=luamoris&show_icons=true&hide_rank=true&include_all_commits=true&hide_title=true&icon_color=609B24&hide_border=true
+[rep]: https://github-readme-stats.vercel.app/api?username=luamoris&show_icons=true&hide_rank=true&include_all_commits=true&hide_title=true&icon_color=609B24&hide_border=true&cache_seconds=87654
 
 
 <!--
