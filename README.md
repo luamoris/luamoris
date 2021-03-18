@@ -22,7 +22,7 @@
 	</a>
 	<img src="https://raw.githubusercontent.com/luamoris/luamoris/7ede4d5155803f6ce6971939f0c15c585a5c0a5a/assets/dot.svg" alt="Dot."/>
 	<a href="https://codepen.io/luamoris/pens/public">
-		<img src="./assets/codepen.svg" alt="Codepen"/>
+		<img src="https://raw.githubusercontent.com/luamoris/luamoris/095da050a36a65fe4d1cf568da038d409b34babf/assets/codepen.svg" alt="Codepen"/>
 	</a>
 </p>
 
