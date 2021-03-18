@@ -20,6 +20,10 @@
 	<a href="https://gitlab.com/luamoris">
 		<img src="https://raw.githubusercontent.com/luamoris/luamoris/c22469486930599100e874425f560a1587611d35/assets/gitlab.svg" alt="Behance"/>
 	</a>
+	<img src="https://raw.githubusercontent.com/luamoris/luamoris/7ede4d5155803f6ce6971939f0c15c585a5c0a5a/assets/dot.svg" alt="Dot."/>
+	<a href="https://codepen.io/luamoris/pens/public">
+		<img src="./assets/codepen.svg" alt="Codepen"/>
+	</a>
 </p>
 
 ---
