@@ -29,7 +29,51 @@
 ---
 
 ### What's so interesting?
-> Young software engineer
+
+> Greetings to you on the Internet!
+> My name is Joseph and my introduction will be short as I value everyone's time.
+
+> My path as a software engineer began in 2019.
+> Today I am a student at the Kyiv Polytechnic Institute.
+> Learning is the first step to conquering the internet.
+> My efficiency is growing exponentially.
+> This is facilitated by such qualities as: discipline, patience and focus.
+> There is only more, better and cooler ahead!
+
+> Motto: "The war is won by the one who works at a time when everyone is resting".
+
+> Thank you for your time!
+
+#### My Goals
+
+| №   | &#128197; Begin          | &#128198; End      | &#128203; Descriptions     | &#128678; Status |
+| :-: | :----------------------: | :----------------: | :------------------------- | :--------------: |
+|1|`2019 Sept. 1`|`2023 June 30`|Earn a Bachelor's Degree in Software Engineering.|&#9203;|
+|2|`2021 Mar. 20`|`2021 May 31`|Training in web design technologies to create perfect websites.|&#9203;|
+|3|`2020 Sept. 1`|&#127773;|WEB-technologies specialist.|&#9203;|
+|4|`2021 Mar. 20`|`2021 Sept. 1`|English at B1 level.|&#9203;|
+<!-- |5||||| -->
+
+
+#### Main tasks
+
+| №   | &#128203; Descriptions     | &#128678; Status |
+| :-: | :------------------------- | :--------------: |
+|+|**Take the test for study at the Academy 2021.**|&#128161;|
+|1|Learn English|&#129327;|
+|2|At least one commit in day.|&#129327;|
+|3|Learning `JavaScript` & `TypeScript`, `HTML` & `CSS`|&#128293;|
+|4|Learning `React JS`& `Redux`|&#128293;|
+
+
+#### Meaning of emoticons
+
+> + &#9203; - `In process`
+> + &#128161; - `Special attention`
+> + &#128293; - `Reinforced learning`
+> + &#129327; - `Daily task`
+> + &#128579; - `Done`
+
 
 ---
 
