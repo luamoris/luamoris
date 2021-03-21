@@ -79,7 +79,9 @@
 
 ### Recent projects
 
-[![Card][rep-template]][template]
+> [![Card][react-faq-card-info]][react-faq-card-info]
+
+> [![Card][template-info]][template]
 
 ---
 
@@ -123,8 +125,11 @@
 
 [stats]: https://github.com/luamoris
 
-[rep-template]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=template&text_color=707070&title_color=73AC3B&hide_border=true&bg_color=F1F1F1&icon_color=609B24
+[template-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=template&text_color=707070&title_color=73AC3B&hide_border=true&bg_color=FFFFFF&icon_color=609B24
 [template]: https://github.com/luamoris/template
+
+[react-faq-card-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=react-faq-card-info&text_color=707070&title_color=73AC3B&hide_border=true&bg_color=FFFFFF&icon_color=609B24
+[react-faq-card-info]: https://github.com/luamoris/react-faq-card-info
 
 
 [lan]: https://github-readme-stats.vercel.app/api/top-langs/?username=luamoris&hide_border=true&title_color=6AB024&langs_count=5&hide_title=true&layout=compact
