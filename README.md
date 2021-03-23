@@ -63,7 +63,7 @@
 |1|Learn English|&#129327;|
 |2|At least one commit in day.|&#129327;|
 |3|Learning `JavaScript` & `TypeScript`, `HTML` & `CSS`|&#128293;|
-|4|Learning `React JS`& `Redux`|&#128293;|
+|4|Learning `React JS` & `Redux`|&#128293;|
 
 
 #### Meaning of emoticons
@@ -89,31 +89,34 @@
 
 ### Languages and Tools
 
-> #### Languages
+#### Programming Languages
 + __`C`__
 + __`C++`__
 + __`C#`__
 + __`PHP`__
 + __`DART`__
 
-> #### Frontend
+#### Libraries and frameworks
++ __`REACT JS`__
+
+#### Frontend
 * __`JAVASCRIPT`__
 * __`HTML`__
 * __`CSS`__
+	* __`SCSS`__
 
-> #### Backend
-+ __`NODE.JS`__
+#### Backend
++ __`NODE JS`__
 
-> #### Technologies
+#### Technologies
 * __`WEBPACK`__
+* __`ESLINT`__
+* __`STYLELINT`__
 
-> #### Tools
+#### Tools
 + __`PHOTOSHOP`__
 + __`FIGMA`__
 
-> #### Other
-* __`ESLINT`__
-* __`STYLELINT`__
 
 ---
 
