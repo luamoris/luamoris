@@ -79,6 +79,8 @@
 
 ### Recent projects
 
+> [![Card][teachinder-info]][teachinder]
+
 > [![Card][react-faq-card-info]][react-faq-card]
 
 > [![Card][template-info]][template]
@@ -130,6 +132,9 @@
 
 [react-faq-card-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=react-faq-card-info&text_color=707070&title_color=73AC3B&hide_border=true&bg_color=FFFFFF&icon_color=609B24
 [react-faq-card]: https://github.com/luamoris/react-faq-card-info
+
+[teachinder-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=teachinder&text_color=707070&title_color=73AC3B&hide_border=true&bg_color=FFFFFF&icon_color=609B24
+[teachinder]: https://github.com/luamoris/teachinder
 
 
 [lan]: https://github-readme-stats.vercel.app/api/top-langs/?username=luamoris&hide_border=true&title_color=6AB024&langs_count=5&hide_title=true&layout=compact
