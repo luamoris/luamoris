@@ -138,18 +138,18 @@
 
 
 
-[teachinder-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=teachinder&text_color=66A436&title_color=76B544&hide_border=true&bg_color=E8F5DC&icon_color=5F813F
+[teachinder-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=teachinder&text_color=66A436&title_color=76B544&hide_border=true&bg_color=E0EDD7&icon_color=5F813F
 [teachinder]: https://github.com/luamoris/teachinder
 
-[covid-game-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=covid-game&text_color=66A436&title_color=76B544&hide_border=true&bg_color=E8F5DC&icon_color=5F813F
+[covid-game-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=covid-game&text_color=66A436&title_color=76B544&hide_border=true&bg_color=E0EDD7&icon_color=5F813F
 [covid-game]: https://github.com/luamoris/covid-game
 
 
 
-[react-social-network-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=react-social-network&text_color=3A9FBB&title_color=3A9FBB&hide_border=true&bg_color=E3F6FF&icon_color=005571
+[react-social-network-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=react-social-network&text_color=3A9FBB&title_color=3A9FBB&hide_border=true&bg_color=D0E6F0&icon_color=005571
 [react-social-network]: https://github.com/luamoris/react-social-network
 
-[react-faq-card-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=react-faq-card-info&text_color=3A9FBB&title_color=3A9FBB&hide_border=true&bg_color=E3F6FF&icon_color=005571
+[react-faq-card-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=react-faq-card-info&text_color=3A9FBB&title_color=3A9FBB&hide_border=true&bg_color=D0E6F0&icon_color=005571
 [react-faq-card]: https://github.com/luamoris/react-faq-card-info
 
 
