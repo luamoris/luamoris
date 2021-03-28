@@ -81,14 +81,14 @@
 
 > [![Card][teachinder-info]][teachinder]
 
+> [![Card][covid-game-info]][covid-game]
+
+> [![Card][react-social-network-info]][react-social-network]
+
 > [![Card][react-faq-card-info]][react-faq-card]
 
-> [![Card][template-info]][template]
+> [![Card][webpack-boilerplate-info]][webpack-boilerplate]
 
-### Test
-
-<!-- GITHUB:START -->
-<!-- GITHUB:END -->
 
 ---
 
@@ -103,6 +103,7 @@
 
 #### Libraries and frameworks
 + __`REACT JS`__
++ __`QT`__
 
 #### Frontend
 * __`JAVASCRIPT`__
@@ -135,14 +136,27 @@
 
 [stats]: https://github.com/luamoris
 
-[template-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=template&text_color=707070&title_color=73AC3B&hide_border=true&bg_color=FFFFFF&icon_color=609B24
-[template]: https://github.com/luamoris/template
 
-[react-faq-card-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=react-faq-card-info&text_color=707070&title_color=73AC3B&hide_border=true&bg_color=FFFFFF&icon_color=609B24
+
+[teachinder-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=teachinder&text_color=66A436&title_color=76B544&hide_border=true&bg_color=E8F5DC&icon_color=5F813F
+[teachinder]: https://github.com/luamoris/teachinder
+
+[covid-game-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=covid-game&text_color=66A436&title_color=76B544&hide_border=true&bg_color=E8F5DC&icon_color=5F813F
+[covid-game]: https://github.com/luamoris/covid-game
+
+
+
+[react-social-network-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=react-social-network&text_color=3A9FBB&title_color=3A9FBB&hide_border=true&bg_color=E3F6FF&icon_color=005571
+[react-social-network]: https://github.com/luamoris/react-social-network
+
+[react-faq-card-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=react-faq-card-info&text_color=3A9FBB&title_color=3A9FBB&hide_border=true&bg_color=E3F6FF&icon_color=005571
 [react-faq-card]: https://github.com/luamoris/react-faq-card-info
 
-[teachinder-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=teachinder&text_color=707070&title_color=73AC3B&hide_border=true&bg_color=FFFFFF&icon_color=609B24
-[teachinder]: https://github.com/luamoris/teachinder
+
+
+[webpack-boilerplate-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=webpack-boilerplate&text_color=887665&title_color=887665&hide_border=true&bg_color=FCF1DD&icon_color=5B4638
+[webpack-boilerplate]: https://github.com/luamoris/webpack-boilerplate
+
 
 
 [lan]: https://github-readme-stats.vercel.app/api/top-langs/?username=luamoris&hide_border=true&title_color=6AB024&langs_count=5&hide_title=true&layout=compact
