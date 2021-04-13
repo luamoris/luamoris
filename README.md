@@ -171,15 +171,22 @@ _______________________________________
 
 _______________________________________
 
-### Most used languages
-[![Top Langs][lan]][stats]
+### Stats
 
-### Repository
-[![GitHub stats][rep]][stats]
+<p align="center">
+	<img
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamoris&layout=compact&title_color=fff&text_color=fff&bg_color=111111&langs_count=6&hide_title=true&hide_border=true"
+		height="160"
+	/>
+	<img
+		src="https://github-readme-stats.vercel.app/api?username=luamoris&title_color=fff&text_color=fff&icon_color=609B24&bg_color=111111&show_icons=true&hide_rank=true&include_all_commits=true&hide_title=true&hide_border=true"
+		height="160"
+	/>
+</p>
 
 
-[stats]: https://github.com/luamoris
+[luamoris]: https://github.com/luamoris
 
-[lan]: https://github-readme-stats.vercel.app/api/top-langs/?username=luamoris&hide_border=true&title_color=6AB024&langs_count=5&hide_title=true&layout=compact
+[stats-1]: https://github-readme-stats.vercel.app/api/top-langs/?username=luamoris&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117
 
-[rep]: https://github-readme-stats.vercel.app/api?username=luamoris&show_icons=true&hide_rank=true&include_all_commits=true&hide_title=true&icon_color=609B24&hide_border=true&cache_seconds=99999
+[stats-2]: https://github-readme-stats.vercel.app/api?username=luamoris&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true
