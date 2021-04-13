@@ -88,6 +88,7 @@ _______________________________________
 	<summary>&#128640; SEE HOW IT LOOKS</summary>
 	<p align="center">
 		<a href="https://luamoris.github.io/tutorial/">View Online</a>
+		<p></p>
 		<img src="https://cutt.ly/cvrDtVv"/>
 	</p>
 </details>
@@ -181,4 +182,4 @@ _______________________________________
 
 [lan]: https://github-readme-stats.vercel.app/api/top-langs/?username=luamoris&hide_border=true&title_color=6AB024&langs_count=5&hide_title=true&layout=compact
 
-[rep]: https://github-readme-stats.vercel.app/api?username=luamoris&show_icons=true&hide_rank=true&include_all_commits=true&hide_title=true&icon_color=609B24&hide_border=true&cache_seconds=87654
+[rep]: https://github-readme-stats.vercel.app/api?username=luamoris&show_icons=true&hide_rank=true&include_all_commits=true&hide_title=true&icon_color=609B24&hide_border=true&cache_seconds=99999
