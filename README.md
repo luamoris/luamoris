@@ -4,9 +4,9 @@
 	</a>
 </p>
 <h3 align="center">Iosif Isachko</h3>
-<a href="https://iosif.fun/" target="_blank">
-	<h5 align="center">iosif.fun</h5>
-</a>
+<p align="center">
+	<a href="https://iosif.fun/">iosif.fun</a>
+</p>
 <p align="center">
 	<a href="https://www.linkedin.com/in/iosif-isachko-2631061a7/">
 		<img src="https://cutt.ly/1vrmZ8B" alt="Linkedin"/>
@@ -55,7 +55,7 @@ _______________________________________
 |2|`2021 Mar. 20`|`2021 May 31`|Training in web design technologies to create perfect websites.|&#9203;|
 |3|`2020 Sept. 1`|&#127773;|WEB-technologies specialist.|&#9203;|
 |4|`2021 Mar. 20`|`2021 Sept. 1`|English at B1 level.|&#9203;|
-|5|`2021 Apr. 13`|&#9203;|Explore `gitbook`. Start writing your own `tutorials`. Learn `npm` and learn how to write `plugins for gitbook`.|&#9203;|
+|5|`2021 Apr. 13`|&#127773;|Explore `gitbook`. Start writing your own `tutorials`. Learn `npm` and learn how to write `plugins for gitbook`.|&#9203;|
 <!-- |5||||| -->
 <!-- |5||||| -->
 
@@ -86,10 +86,10 @@ _______________________________________
 
 <details>
 	<summary>&#128640; SEE HOW IT LOOKS</summary>
-	<a href="https://luamoris.github.io/tutorial/" target="_blank">
-		<h4 align="center">View Online</h4>
-	</a>
-	<img src="https://cutt.ly/cvrDtVv" />
+	<p align="center">
+		<a href="https://luamoris.github.io/tutorial/">View Online</a>
+		<img src="https://cutt.ly/cvrDtVv"/>
+	</p>
 </details>
 
 _______________________________________
