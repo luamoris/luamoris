@@ -1,32 +1,35 @@
 <p align="center">
 	<a href="https://github.com/luamoris">
-		<img width="200" src="https://raw.githubusercontent.com/luamoris/luamoris/c22469486930599100e874425f560a1587611d35/assets/logo.svg" alt="Logo."/>
+		<img width="200" src="https://cutt.ly/CvrmOdx" alt="Logo"/>
 	</a>
 </p>
 <h3 align="center">Iosif Isachko</h3>
+<a href="https://iosif.fun/" target="_blank">
+	<h5 align="center">iosif.fun</h5>
+</a>
 <p align="center">
 	<a href="https://www.linkedin.com/in/iosif-isachko-2631061a7/">
-		<img src="https://raw.githubusercontent.com/luamoris/luamoris/c22469486930599100e874425f560a1587611d35/assets/linkedin.svg" alt="Linkedin"/>
+		<img src="https://cutt.ly/1vrmZ8B" alt="Linkedin"/>
 	</a>
-	<img src="https://raw.githubusercontent.com/luamoris/luamoris/7ede4d5155803f6ce6971939f0c15c585a5c0a5a/assets/dot.svg" alt="Dot."/>
+	<img src="https://cutt.ly/Wvrm0Z3" alt="Dot"/>
 	<a href="https://t.me/I0S1F">
-		<img src="https://raw.githubusercontent.com/luamoris/luamoris/c22469486930599100e874425f560a1587611d35/assets/telegram.svg" alt="Telegram"/>
+		<img src="https://cutt.ly/JvrQi0H" alt="Telegram"/>
 	</a>
-	<img src="https://raw.githubusercontent.com/luamoris/luamoris/7ede4d5155803f6ce6971939f0c15c585a5c0a5a/assets/dot.svg" alt="Dot."/>
+	<img src="https://cutt.ly/Wvrm0Z3" alt="Dot"/>
 	<a href="https://www.behance.net/yaiosifua2980">
-		<img src="https://raw.githubusercontent.com/luamoris/luamoris/c22469486930599100e874425f560a1587611d35/assets/behance.svg" alt="Behance"/>
+		<img src="https://cutt.ly/8vrQsZh" alt="Behance"/>
 	</a>
-	<img src="https://raw.githubusercontent.com/luamoris/luamoris/7ede4d5155803f6ce6971939f0c15c585a5c0a5a/assets/dot.svg" alt="Dot."/>
+	<img src="https://cutt.ly/Wvrm0Z3" alt="Dot"/>
 	<a href="https://gitlab.com/luamoris">
-		<img src="https://raw.githubusercontent.com/luamoris/luamoris/c22469486930599100e874425f560a1587611d35/assets/gitlab.svg" alt="Behance"/>
+		<img src="https://cutt.ly/XvrQgeN" alt="Behance"/>
 	</a>
-	<img src="https://raw.githubusercontent.com/luamoris/luamoris/7ede4d5155803f6ce6971939f0c15c585a5c0a5a/assets/dot.svg" alt="Dot."/>
+	<img src="https://cutt.ly/Wvrm0Z3" alt="Dot"/>
 	<a href="https://codepen.io/luamoris/pens/public">
-		<img src="https://raw.githubusercontent.com/luamoris/luamoris/095da050a36a65fe4d1cf568da038d409b34babf/assets/codepen.svg" alt="Codepen"/>
+		<img src="https://cutt.ly/zvrQh5y" alt="Codepen"/>
 	</a>
 </p>
 
----
+_______________________________________
 
 ### What's so interesting?
 
@@ -52,6 +55,8 @@
 |2|`2021 Mar. 20`|`2021 May 31`|Training in web design technologies to create perfect websites.|&#9203;|
 |3|`2020 Sept. 1`|&#127773;|WEB-technologies specialist.|&#9203;|
 |4|`2021 Mar. 20`|`2021 Sept. 1`|English at B1 level.|&#9203;|
+|5|`2021 Apr. 13`|&#9203;|Explore `gitbook`. Start writing your own `tutorials`. Learn `npm` and learn how to write `plugins for gitbook`.|&#9203;|
+<!-- |5||||| -->
 <!-- |5||||| -->
 
 
@@ -75,22 +80,61 @@
 > + &#128579; - `Done`
 
 
----
+_______________________________________
 
-### Recent projects
+### Tutorial
 
-> [![Card][teachinder-info]][teachinder]
+<details>
+	<summary>&#128640; SEE HOW IT LOOKS</summary>
+	<a href="https://luamoris.github.io/tutorial/" target="_blank">
+		<h4 align="center">View Online</h4>
+	</a>
+	<img src="https://cutt.ly/cvrDtVv" />
+</details>
 
-> [![Card][covid-game-info]][covid-game]
+_______________________________________
 
-> [![Card][react-social-network-info]][react-social-network]
+### Development now
+> + __`tutorial`__ [`code`][rep-1] [`live`][live-1]
+> + __`webland`__ [`code`][rep-2] [`live`][live-2]
+> + __`teachinder`__ [`code`][rep-5] [`live`][live-5]
+> + __`covid-game`__ [`code`][rep-7]
+> + __`webpack-boilerplate`__ [`code`][rep-6]
+> + __`React JS`__
+> 	+ __`react-social-network`__ [`code`][rep-3]
+> 	+ __`react-faq-card-info`__ [`code`][rep-4] [`live`][live-4]
 
-> [![Card][react-faq-card-info]][react-faq-card]
 
-> [![Card][webpack-boilerplate-info]][webpack-boilerplate]
+[rep-1]: https://github.com/luamoris/tutorial
+[live-1]: https://luamoris.github.io/tutorial/
+
+[rep-2]: https://github.com/luamoris/webland
+[live-2]: https://iosif.fun/
+
+[rep-3]: https://github.com/luamoris/react-social-network
+[live-3]: #
+
+[rep-4]: https://github.com/luamoris/react-faq-card-info
+[live-4]: https://luamoris.github.io/react-faq-card-info/
+
+[rep-5]: https://github.com/luamoris/teachinder
+[live-5]: https://luamoris.github.io/teachinder/
+
+[rep-6]: https://github.com/luamoris/webpack-boilerplate
+[live-6]: #
+
+[rep-7]: https://github.com/luamoris/covid-game
+[live-7]: #
 
 
----
+### Packages and Plugins
+> #### Plugins
+> 	+ __`gitbook-plugin-block-code`__ [`code`][src-1] [`npm`][npm-1]
+
+[src-1]: https://github.com/luamoris/gitbook-plugin-block-code
+[npm-1]: https://www.npmjs.com/package/gitbook-plugin-block-code
+
+_______________________________________
 
 ### Languages and Tools
 
@@ -124,7 +168,7 @@
 + __`FIGMA`__
 
 
----
+_______________________________________
 
 ### Most used languages
 [![Top Langs][lan]][stats]
@@ -133,43 +177,8 @@
 [![GitHub stats][rep]][stats]
 
 
-
 [stats]: https://github.com/luamoris
-
-
-
-[teachinder-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=teachinder&text_color=66A436&title_color=76B544&hide_border=true&bg_color=E0EDD7&icon_color=5F813F
-[teachinder]: https://github.com/luamoris/teachinder
-
-[covid-game-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=covid-game&text_color=66A436&title_color=76B544&hide_border=true&bg_color=E0EDD7&icon_color=5F813F
-[covid-game]: https://github.com/luamoris/covid-game
-
-
-
-[react-social-network-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=react-social-network&text_color=3A9FBB&title_color=3A9FBB&hide_border=true&bg_color=D0E6F0&icon_color=005571
-[react-social-network]: https://github.com/luamoris/react-social-network
-
-[react-faq-card-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=react-faq-card-info&text_color=3A9FBB&title_color=3A9FBB&hide_border=true&bg_color=D0E6F0&icon_color=005571
-[react-faq-card]: https://github.com/luamoris/react-faq-card-info
-
-
-
-[webpack-boilerplate-info]: https://github-readme-stats.vercel.app/api/pin/?username=luamoris&repo=webpack-boilerplate&text_color=887665&title_color=887665&hide_border=true&bg_color=FCF1DD&icon_color=5B4638
-[webpack-boilerplate]: https://github.com/luamoris/webpack-boilerplate
-
-
 
 [lan]: https://github-readme-stats.vercel.app/api/top-langs/?username=luamoris&hide_border=true&title_color=6AB024&langs_count=5&hide_title=true&layout=compact
 
 [rep]: https://github-readme-stats.vercel.app/api?username=luamoris&show_icons=true&hide_rank=true&include_all_commits=true&hide_title=true&icon_color=609B24&hide_border=true&cache_seconds=87654
-
-
-<!--
-
-![Dart][dart]
-![Javascript][js]
-
-[dart]: https://img.shields.io/badge/-dart-434343?style=for-the-badge&logo=dart&logoColor=097cdb
-[js]: https://img.shields.io/badge/-javascript-434343?style=for-the-badge&logo=javascript&logoColor=e9d54d
-
- -->
