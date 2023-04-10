@@ -5,7 +5,7 @@
 </p>
 <h3 align="center">Iosif Isachko</h3>
 <p align="center">
-	<a href="https://luamoris.github.io/homepage/">website</a>
+	<a href="https://luamoris.com">luamoris.com</a>
 </p>
 <p align="center">
 	<a href="https://www.linkedin.com/in/iosif-isachko-2631061a7/">
