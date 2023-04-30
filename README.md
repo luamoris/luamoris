@@ -1,12 +1,14 @@
 <p align="center">
 	<a href="https://github.com/luamoris">
-		<img width="200" src="https://cutt.ly/CvrmOdx" alt="Logo"/>
+		<img width="120" src="https://cutt.ly/U72fY1a" alt="Logo"/>
 	</a>
 </p>
-<h3 align="center">Iosif Isachko</h3>
+<h3 align="center"><strong>LUAMORIS</strong></h3>
 <p align="center">
 	<a href="https://luamoris.com">luamoris.com</a>
 </p>
+
+
 <p align="center">
 	<a href="https://www.linkedin.com/in/iosif-isachko-2631061a7/">
 		<img src="https://cutt.ly/1vrmZ8B" alt="Linkedin"/>
@@ -33,36 +35,43 @@ _______________________________________
 
 ### What's so interesting?
 
-> Greetings to you on the Internet!
-> My name is Joseph and my introduction will be short as I value everyone's time.
-
-> My path as a software engineer began in 2019.
-> Today I am a student at the Kyiv Polytechnic Institute.
-> Learning is the first step to conquering the internet.
-> My efficiency is growing exponentially.
-> This is facilitated by such qualities as: discipline, patience and focus.
-> There is only more, better and cooler ahead!
-
-> Motto: "The war is won by the one who works at a time when everyone is resting".
-
-> Thank you for your time!
+> I am combine my passion for art, programming, and artificial intelligence to create original ideas that bring beauty to the world!
 
 
-#### Meaning of emoticons
+#### LUAMORIS
+> + &#128293; [`code`][luamoris-com-code] - [__`luamoris.com`__][luamoris-com-live]
+> + &#128293; [`code`][policy-luamoris-code] - [__`policy.luamoris.com`__][policy-luamoris-live]
+> + &#128293; [`code`][prompt-luamoris-code] - [__`prompt.luamoris.com`__][prompt-luamoris-live]
 
-> + &#9203; - `In process`
-> + &#128161; - `Special attention`
-> + &#128293; - `Reinforced learning`
-> + &#129327; - `Daily task`
-> + &#128579; - `Done`
+#### COCCALINA
+> + &#128579; [`code`][coccalina-com-code] - [__`coccalina.com`__][coccalina-com-live]
 
+#### SERVICES
+> + &#128161; [`code`][lmSelect-code] - [__`lmSelect`__][lmSelect-live]
 
 ### Packages and Plugins
-> #### Plugins
-> 	+ __`gitbook-plugin-block-code`__ [`code`][src-1] [`npm`][npm-1]
+> + &#129327; [`code`][src-1] [__`gitbook-plugin-block-code`__][npm-1]
 
 [src-1]: https://github.com/luamoris/gitbook-plugin-block-code
 [npm-1]: https://www.npmjs.com/package/gitbook-plugin-block-code
+
+
+
+[luamoris-com-code]: https://github.com/luamoris/luamoris.com
+[luamoris-com-live]: https://luamoris.com
+
+[policy-luamoris-code]: https://github.com/luamoris/policy.luamoris.com
+[policy-luamoris-live]: https://policy.luamoris.com
+
+[prompt-luamoris-code]: https://github.com/luamoris/prompt.luamoris.com
+[prompt-luamoris-live]: https://luamoris.github.io/prompt.luamoris.com
+
+[coccalina-com-code]: https://github.com/luamoris/coccalina
+[coccalina-com-live]: https://coccalina.com
+
+
+[lmSelect-code]: https://github.com/luamoris/lmSelect
+[lmSelect-live]: https://luamoris.github.io/lmSelect/
 
 _______________________________________
 
